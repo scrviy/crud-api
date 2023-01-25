@@ -1,1 +1,1 @@
-## Projeto de API mínima, efetuando as operações Create, Read, Update e Delete.
+### Crud project with a minimal api in ASP.NET Core
